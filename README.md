@@ -53,10 +53,10 @@ Matthieu Couriol<br>
 
 
 
-![alt text](https://github.com/ggayliye/air_sensor_research/blob/main/.img/6.jpg)<br>
-![alt text](https://github.com/ggayliye/air_sensor_research/blob/main/.img/7.jpg)<br>
-![alt text](https://github.com/ggayliye/air_sensor_research/blob/main/.img/8.jpg)<br>
-![alt text](https://github.com/ggayliye/air_sensor_research/blob/main/.img/9.jpg)<br>
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/.img/6.jpg)<br>
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/.img/7.jpg)<br>
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/.img/8.jpg)<br>
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/.img/9.jpg)<br>
 
 # References:
 1. “Laboratory for Nanointegrated Systems (LNIS).” GitHub, github.com/lnis-uofu. Accessed 11 Sept. 2024. <br>
@@ -66,10 +66,10 @@ Matthieu Couriol<br>
 ## Useful Abbreviations
 - ppb : Part Per Billion
 - SWaP: Size, Weight, and Power
-![alt text](https://github.com/ggayliye/air_sensor_research/blob/main/.img/1.jpg)
-![alt text](https://github.com/ggayliye/air_sensor_research/blob/main/.img/2.jpg)
-![alt text](https://github.com/ggayliye/air_sensor_research/blob/main/.img/3.jpg)
-![alt text](https://github.com/ggayliye/air_sensor_research/blob/main/.img/4.jpg)
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/.img/1.jpg)
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/.img/2.jpg)
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/.img/3.jpg)
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/.img/4.jpg)
 
 
 

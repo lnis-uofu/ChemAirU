@@ -35,10 +35,10 @@ On Wed Sep 9th, read the dissertation until the title, "1.4 Dissertation Contrib
 - Finished reading "ToxicGasDetection_summary.docx"
 - Continue reading "Thesis_ProQuestVersion.pdf".
 
-![alt text](https://github.com/ggayliye/air_sensor_research/blob/main/week3/.img/1.jpg)<br>
-![alt text](https://github.com/ggayliye/air_sensor_research/blob/main/week3/.img/2.jpg)<br>
-![alt text](https://github.com/ggayliye/air_sensor_research/blob/main/week3/.img/3.jpg)<br>
-![alt text](https://github.com/ggayliye/air_sensor_research/blob/main/week3/.img/4.jpg)<br>
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/week3/.img/1.jpg)<br>
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/week3/.img/2.jpg)<br>
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/week3/.img/3.jpg)<br>
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/week3/.img/4.jpg)<br>
 
 ## Comments:
 
