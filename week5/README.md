@@ -18,6 +18,22 @@ evaluated relative to the baseline and the signals require preprocessing before 
 ![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/week5/.img/6.jpg)<br>
 ![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/week5/.img/7.jpg)<br>
 ![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/week5/.img/8.jpg)<br>
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/week5/.img/9.jpg)<br>
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/week5/.img/10.jpg)<br>
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/week5/.img/11.jpg)<br>
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/week5/.img/12.jpg)<br>
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/week5/.img/13.jpg)<br>
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/week5/.img/14.jpg)<br>
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/week5/.img/15.jpg)<br>
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/week5/.img/16.jpg)<br>
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/week5/.img/17.jpg)<br>
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/week5/.img/18.jpg)<br>
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/week5/.img/19.jpg)<br>
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/week5/.img/20.jpg)<br>
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/week5/.img/21.jpg)<br>
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/week5/.img/22.jpg)<br>
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/week5/.img/23.jpg)<br>
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/week5/.img/24.jpg)<br>
 
 ## Comments:
 
