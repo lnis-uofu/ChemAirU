@@ -16,7 +16,9 @@ Coded using google colab in Python.
 4. Right click on the pane of the menu and upload the air data. The file extention is ".csv".<br>
 5. Click the green "play/run" button on each line, starting from top to bottom, one by one.
 
-
+## AI Principles.
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/AI_code_draft/.img/Neural_Network.jpg)<br>
+![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/AI_code_draft/.img/Sigmoid_Function.jpg)<br>
 
 ## Comments:
 
