@@ -78,18 +78,23 @@ hold off
 
 figure (2);
 clf; % clears the figures
+
 subplot(4,1,1); %
-stem(t,s1);
-title('Air Sensor Chemical Responses (Subplots)');grid on
+stem(t,s1);ylabel('Voltage, [V]');
+title('Air Sensor1 Chemical Response');grid on
 subplot(4,1,2); %
-stem(t,s2);
+
+stem(t,s2);ylabel('Voltage, [V]');
+title('Air Sensor2 Chemical Response');grid on
 
 subplot(4,1,3); %
-stem(t,s3);
+stem(t,s3);ylabel('Voltage, [V]');
+title('Air Sensor3 Chemical Response');grid on
 ylim([-inf 3.5])
 
 subplot(4,1,4); %
 stem(t,s4);
+title('Air Sensor4 Chemical Response');grid on
 
 xlabel('Time, [ns]');
 ylabel('Voltage, [V]');
