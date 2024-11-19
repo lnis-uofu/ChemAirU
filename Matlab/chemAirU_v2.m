@@ -175,7 +175,7 @@ figure('Name','Zoom-In Table: All Sensor Data Plots');
 % figure (1);
 clf; % Clears the figures
 plot(t_z,s1_c_z);
-title('Zoom-In Table: Air Sensor Chemical Responses');grid on
+title('Zoom-In Table: Air Sensor Chemical Response Plot Results');grid on
 
 xlabel('Time, [ns]');
 ylabel('Voltage, [V]');
