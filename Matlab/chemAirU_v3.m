@@ -51,7 +51,7 @@ relay = T{:,3}; % Column 3, "relay" reading
 s1_we = T{:,4}-offset_voltage; %Column 3 reading and extracting the offset value
 s1_ae = T{:,5}-offset_voltage; %Column 4 reading and extracting the offset value
 
-s1_c=(s1_we - s1_ae); % Corrected final values of the Sensor 1.
+s1_c=s1_we - s1_ae; % Corrected final values of the Sensor 1.
 
 
 s1_len = length(s1_c); % Length of the data
@@ -152,8 +152,11 @@ disp(s4_c);
 
 % ===================ZOOM-IN DATA TABLE ANALYSIS==============================
 
-% work HERE next time.
-zoom_in_data_table = table(T(rowsNeeded, [1,2,3]),s1_c(rowsNeeded, :));
+% Copy column 1-3 for the zoomed data table
+
+col1_3 = T(rowsNeeded, [1,2,3]);
+% Work here
+zoom_in_data_table = [col1_3,  table(s1_c(rowsNeeded, :))];
 % zoom_in_data_table = table(rowsNeeded, :);
 % zoom_in_data_table = T(rowsNeeded, :);
 
