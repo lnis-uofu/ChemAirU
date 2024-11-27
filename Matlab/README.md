@@ -24,6 +24,10 @@ and enter your range. <br>
 ZOOM-IN DATA TABLE ANALYSIS
 
 ### Progress Notes
+ <ins> Nov 26, 2024 : </ins> <br>
+ - Sensor data plots are complete using Mathlab. 
+ - Zoom-in Sensor data plots are complete using Mathlab.<br>
+ 
  
  <ins> Nov 20, 2024 : </ins> <br>
  - All math work with the ".csv" files should be done using Mathlab. <br>
