@@ -24,6 +24,9 @@ and enter your range. <br>
 ZOOM-IN DATA TABLE ANALYSIS
 
 ### Progress Notes
+<ins> Nov 27, 2024 : </ins> <br>
+ - Study Matlab noise analysis.
+
  <ins> Nov 26, 2024 : </ins> <br>
  - Sensor data plots are complete using Mathlab. 
  - Zoom-in Sensor data plots are complete using Mathlab.<br>
