@@ -24,6 +24,9 @@ and enter your range. <br>
 ZOOM-IN DATA TABLE ANALYSIS
 
 ### Progress Notes
+<ins> Dec 3rd, 2024 : </ins> <br>
+ - Noise analysis draft is ready.
+
 <ins> Nov 27, 2024 : </ins> <br>
  - Study Matlab noise analysis.
 
