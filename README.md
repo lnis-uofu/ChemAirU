@@ -16,6 +16,15 @@ Copyright: ECE6950, Kyle G. Gayliyev - This work may not be copied for use in Ac
 
 # Progress Notes
 
+<ins>Final Notes:</ins> <br>
+- MATLAB coding for the plots and SNR are complete.
+- AI draft code using Phython is complete.
+
+<ins>Week2 Notes:</ins> <br>
+
+- On Wed Sep 3rd, 2024: Started reading the topic related the PhD student, Matthieu Couriol's, thesis/dissertation
+- On Thu Sep 4th, 2024: Met with the scientist Raven who leads the project 
+
 <ins>Week1 Notes:</ins> <br>
 
 - Met with the professor, discussed about the project.
@@ -23,10 +32,7 @@ Copyright: ECE6950, Kyle G. Gayliyev - This work may not be copied for use in Ac
 - Met with the team leader Corinne Garcia about the project and logistics of working in the peoject.
 - Participated in the team socializing activity.
 
-<ins>Week2 Notes:</ins> <br>
 
-- On Wed Sep 3rd, 2024: Started reading the topic related the PhD student, Matthieu Couriol's, thesis/dissertation
-- On Thu Sep 4th, 2024: Met with the scientist Raven who leads the project 
 
 <ins>All weekly updates will be in it's related folder on top. The last week will include imprivemnets from all weeks.</ins> <br>
 
@@ -48,15 +54,6 @@ Thank you for evaluating this project. <br>
 
 Have a wonderful day!
 
-# Consulted Peers:
-Matthieu Couriol<br>
-
-
-
-![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/.img/6.jpg)<br>
-![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/.img/7.jpg)<br>
-![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/.img/8.jpg)<br>
-![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/.img/9.jpg)<br>
 
 # References:
 1. “Laboratory for Nanointegrated Systems (LNIS).” GitHub, github.com/lnis-uofu. Accessed 11 Sept. 2024. <br>
@@ -66,10 +63,7 @@ Matthieu Couriol<br>
 ## Useful Abbreviations
 - ppb : Part Per Billion
 - SWaP: Size, Weight, and Power
-![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/.img/1.jpg)
-![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/.img/2.jpg)
-![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/.img/3.jpg)
-![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/.img/4.jpg)
+
 
 
 
