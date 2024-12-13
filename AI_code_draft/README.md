@@ -21,7 +21,8 @@ Coded using google colab in Python.
 ![alt text](https://github.com/lnis-uofu/ChemAirU/blob/main/AI_code_draft/.img/Sigmoid_Function.jpg)<br>
 
 ## Comments:
-
+Link for the google collab : <br>
+https://colab.research.google.com/drive/1nQ9PklCoXplRhIuhNJfbAObS3FpiMcQ2?usp=sharing
 N/A
 
 
